@@ -1,2 +1,3 @@
-# KISS
-Known Inorganic Structure Search
+# ChIPS 
+
+Chemically Informed Prototype Search 
